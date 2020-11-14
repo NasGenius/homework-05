@@ -14,6 +14,9 @@ Homework-5 Day-Planner
 * This project emphasizes the use of using Javascript to save and retrieve data from local storage
 * This project utilizes the use of moment.js for time calculation and formatting  conversion 
 
+## Code Validation
+* Used Code Beauty for my code validation for HTML, Javascript, and CSS.
+
 ### This project has the following features: 
 * A header with local time that updates live
 * Seven Input Entries
@@ -71,19 +74,6 @@ Homework-5 Day-Planner
         * For Loops
         * Functions 
         * Local Storage set and get 
-
-### Code Validation 
-    * These use W3 and Code Beauty Code Validators for HTML , Javascript and CSS
-    
-    * ['HTML'](https://validator.w3.org/nu/#textarea)
-    * ['Javascript'](https://codebeautify.org/jsvalidate)
-    * ['CSS']()
-    
-
-
-
-
-
 
 
 
