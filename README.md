@@ -24,7 +24,7 @@ Homework-5 Day-Planner
     * Green is before the current hour
     
 ### Psuedo code:  
-* Find out of Moment.js needs further installation
+
 * Start with Document onload
 * Look up Javscript Calendar, write steps down and find matching Jquery methods
 * Variables unknown until step above is complete
@@ -39,9 +39,10 @@ Homework-5 Day-Planner
     ** How can we use moment duration to compare time?
 
 ### This project has script features of:
+
 * Moment.js for local time, current time, and time conversion for individual hours
 * Appended text to HTML for hour time
-* If, if/else statement to compare time with the current time 
+* Used "if/else" statement to compare time with the current time 
 * Appended attributes for color current time 
 * An event listener for the save buttons to save to local storage
 
