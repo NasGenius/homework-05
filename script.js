@@ -1,15 +1,15 @@
-// Billy Gray Homework-5 Day Planner
+// Billy Gray Homework-5 Day Planner //
 
-// Moment declaration for day and time 
+// Moment declaration for day and time //
 
 moment(Date);
 $("#currentDay").text(moment().format('dddd MMMM Do YYYY, h:mm a'));
 
-// Moment Current time 
+// Moment Current time //
 
 var currentTime = moment();
 
-// Returns current time to the nearest hour - 12:30 becomes 12:00
+// Returns current time to the nearest hour - 12:30 becomes 12:00 //
 
 currentTime = currentTime.startOf("hour");
 
@@ -246,7 +246,9 @@ for (var i = 0; i < x.length; i++) {
     // form - control
     $(".form" + x[i]).val(dataHour);
 }
-// Event listener to save to local stroage
+
+// Event listener to save to local stroage //
+
 $(".saveBtn").click(function () {
     event.preventDefault();
     var formValue = $(this).siblings(".form-control").val();
