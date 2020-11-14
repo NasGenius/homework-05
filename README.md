@@ -74,6 +74,8 @@ Homework-5 Day-Planner
         * For Loops
         * Functions 
         * Local Storage set and get 
-
+        
+### Final Thoughts
+* I had a good time working on this project. Some things I didn't fully understand but my code works. I still have a lot to learn. Also, my local git is still giving me issues. I've narrowed it down to VS Code so I will continue working through that so I can get my commits pushed through locally for frequently.
 
 
