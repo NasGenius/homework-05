@@ -73,7 +73,11 @@ Homework-5 Day-Planner
         * Local Storage set and get 
 
 ### Code Validation 
-    * These use W3C Code Validators for HTML and CSS
+    * These use Code Beauty Code Validators for HTML , Javascript and CSS
+    *['HTML']()
+    *['Javascript'](https://codebeautify.org/jsvalidate)
+    *['CSS']()
+    
 
 
 
