@@ -74,6 +74,7 @@ Homework-5 Day-Planner
 
 ### Code Validation 
     * These use W3 and Code Beauty Code Validators for HTML , Javascript and CSS
+    
     * ['HTML'](https://validator.w3.org/nu/#textarea)
     * ['Javascript'](https://codebeautify.org/jsvalidate)
     * ['CSS']()
