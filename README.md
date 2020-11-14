@@ -4,7 +4,7 @@ Homework-5 Day-Planner
 
 * ['Day-Planner GitHub']()
 * ['Day-Planner GitHub IO']()
-* ['Day-Planner Demo Video']()
+* ['Day-Planner Demo Video'](https://github.com/NasGenius/homework-05/blob/main/assets/demo/4melny.gif)
 
 ![Day-Planner Demo](assets/demo/gif.gif)
 
