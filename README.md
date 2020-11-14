@@ -6,7 +6,7 @@ Homework-5 Day-Planner
 * ['Day-Planner GitHub IO']()
 * ['Day-Planner Demo Video'](https://github.com/NasGenius/homework-05/blob/main/assets/demo/4melny.gif)
 
-![Day-Planner Demo](assets/demo/gif.gif)
+![Day-Planner Demo](assets/demo/4melny.gif)
 
 ### Summary
 * HTML and CSS and Javascript documents create a day planner with an eight-hour work day
