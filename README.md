@@ -3,7 +3,7 @@ Homework-5 Day-Planner
 ## Billy Gray Homework-5 Code Quiz
 
 * ['Day-Planner GitHub']()
-* ['Day-Planner GitHub IO']()
+* ['Day-Planner GitHub IO'](https://nasgenius.github.io/homework-05/)
 * ['Day-Planner Demo Video'](https://github.com/NasGenius/homework-05/blob/main/assets/demo/4melny.gif)
 
 ![Day-Planner Demo](assets/demo/4melny.gif)
